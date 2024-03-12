@@ -5,7 +5,7 @@ from yt import download_type
 
 print("[bebraBot] Инициализация...")
 
-token = '6617343138:AAGnQAWgJAYQdHGKN_sAWgk9q5R-2r7wBDs'
+token = "YOUR_API_KEY'
 
 try:
     bot = telebot.TeleBot(token)
