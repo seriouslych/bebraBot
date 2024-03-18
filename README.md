@@ -1,4 +1,4 @@
-# bebraBot v2.2
+# bebraBot v2.1
 Telegram-бот на Python
 
 Он умеет:
